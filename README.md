@@ -1,12 +1,10 @@
 # GitPitch Conan
 
-## GitPitch about Conan.io for [FISL18](http://fisl18.softwarelivre.org/)
+## GitPitch about Conan.io for [cppbr19](https://ccppbrasil.github.io/encontros/proximo/)
 
-#### Watch me at FISL18
+#### Watch me at cppbr19
 
-##### 2018-07-13 04:00 PM (UTC-3)
-
-https://agenda.fisl18.softwarelivre.org/#/2018-07-13
+##### 2019-07-06 13:45 PM (UTC-3)
 
 #### LICENSE
 [MIT](LICENSE)
