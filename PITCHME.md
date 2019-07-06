@@ -183,7 +183,7 @@ Não o bárbaro!
 #### CONAN EM AÇÃO
 @title[Conan in Action File - Propose]
 
-* Calcular MD% utilizando Poco
+* Calcular MD5 utilizando Poco
 * Verificar um string com Boost Regex
 * Construir utilizando CMake
 
